@@ -1,0 +1,76 @@
+id,name,light_years_from_earth,planet_mass,stellar_magnitude,discovery_date,hyperlink
+0,TOI-4633 c,95.2016,0.387 Jupiters,9.017,2024,https://science.nasa.gov/exoplanet-catalog/toi-4633-c/
+1,2MASS J0249-0557 c,66.0613,11.6 Jupiters,18.3,2018,https://science.nasa.gov/exoplanet-catalog/2mass-j0249-0557-c/
+2,TOI-815 c,59.7117,23.5 Earths,10.217,2024,https://science.nasa.gov/exoplanet-catalog/toi-815-c/
+3,TOI-815 b,59.7117,7.6 Earths,10.217,2024,https://science.nasa.gov/exoplanet-catalog/toi-815-b/
+4,TOI-4559 b,31.6354,2.59 Earths,13.115,2024,https://science.nasa.gov/exoplanet-catalog/toi-4559-b/
+5,TOI-1739 b,70.9819,3.52 Earths,10.692,2024,https://science.nasa.gov/exoplanet-catalog/toi-1739-b/
+6,Kepler-1660 AB b,1188.54,4.992 Jupiters,13.595,2023,https://science.nasa.gov/exoplanet-catalog/kepler-1660-ab-b/
+7,ITG 15 b,136.37,21 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/itg-15-b/
+8,TIC 139270665 c,189.875,4.89 Jupiters,10.385,2024,https://science.nasa.gov/exoplanet-catalog/tic-139270665-c/
+9,TIC 139270665 b,189.875,0.463 Jupiters,10.385,2024,https://science.nasa.gov/exoplanet-catalog/tic-139270665-b/
+10,HIP 77900 b,150.862,21 Jupiters,6.15,2024,https://science.nasa.gov/exoplanet-catalog/hip-77900-b/
+11,2MASS J11011926-7732383 b,Unknown,28 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/2mass-j11011926-7732383-b/
+12,G 196-3 b,21.7912,26 Jupiters,11.672,2024,https://science.nasa.gov/exoplanet-catalog/g-196-3-b/
+13,2MASS J03590986+2009361 b,117.435,18 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/2mass-j035909862009361-b/
+14,2MASS J21252752-8138278 b,34.1154,12 Jupiters,11.804,2024,https://science.nasa.gov/exoplanet-catalog/2mass-j21252752-8138278-b/
+15,TOI-4633 c,95.2016,0.387 Jupiters,9.017,2024,https://science.nasa.gov/exoplanet-catalog/toi-4633-c/
+16,2MASS J0249-0557 c,66.0613,11.6 Jupiters,18.3,2018,https://science.nasa.gov/exoplanet-catalog/2mass-j0249-0557-c/
+17,TOI-815 c,59.7117,23.5 Earths,10.217,2024,https://science.nasa.gov/exoplanet-catalog/toi-815-c/
+18,TOI-815 b,59.7117,7.6 Earths,10.217,2024,https://science.nasa.gov/exoplanet-catalog/toi-815-b/
+19,TOI-4559 b,31.6354,2.59 Earths,13.115,2024,https://science.nasa.gov/exoplanet-catalog/toi-4559-b/
+20,TOI-1739 b,70.9819,3.52 Earths,10.692,2024,https://science.nasa.gov/exoplanet-catalog/toi-1739-b/
+21,Kepler-1660 AB b,1188.54,4.992 Jupiters,13.595,2023,https://science.nasa.gov/exoplanet-catalog/kepler-1660-ab-b/
+22,ITG 15 b,136.37,21 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/itg-15-b/
+23,TIC 139270665 c,189.875,4.89 Jupiters,10.385,2024,https://science.nasa.gov/exoplanet-catalog/tic-139270665-c/
+24,TIC 139270665 b,189.875,0.463 Jupiters,10.385,2024,https://science.nasa.gov/exoplanet-catalog/tic-139270665-b/
+25,HIP 77900 b,150.862,21 Jupiters,6.15,2024,https://science.nasa.gov/exoplanet-catalog/hip-77900-b/
+26,2MASS J11011926-7732383 b,Unknown,28 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/2mass-j11011926-7732383-b/
+27,G 196-3 b,21.7912,26 Jupiters,11.672,2024,https://science.nasa.gov/exoplanet-catalog/g-196-3-b/
+28,2MASS J03590986+2009361 b,117.435,18 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/2mass-j035909862009361-b/
+29,2MASS J21252752-8138278 b,34.1154,12 Jupiters,11.804,2024,https://science.nasa.gov/exoplanet-catalog/2mass-j21252752-8138278-b/
+30,2MASS J11550485-7919108 b,100.862,20 Jupiters,16.957,2024,https://science.nasa.gov/exoplanet-catalog/2mass-j11550485-7919108-b/
+31,TOI-4336 A b,22.5455,5.14 Earths,13.6,2024,https://science.nasa.gov/exoplanet-catalog/toi-4336-a-b/
+32,TOI-871 b,68.0473,3.41 Earths,10.569,2024,https://science.nasa.gov/exoplanet-catalog/toi-871-b/
+33,KMT-2023-BLG-1642L b,6980,1.08 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/kmt-2023-blg-1642l-b/
+34,KMT-2023-BLG-1454L b,7220,0.63 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/kmt-2023-blg-1454l-b/
+35,KMT-2023-BLG-0416L b,5900,13.03096 Earths,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/kmt-2023-blg-0416l-b/
+36,HIP 39017 b,66.3217,23.6 Jupiters,6.96076,2024,https://science.nasa.gov/exoplanet-catalog/hip-39017-b/
+37,TOI-1467 b,37.4418,4.02 Earths,12.293,2024,https://science.nasa.gov/exoplanet-catalog/toi-1467-b/
+38,TOI-771 b,25.2788,2.61 Earths,14.888,2024,https://science.nasa.gov/exoplanet-catalog/toi-771-b/
+39,NGTS-30 b,238.377,0.96 Jupiters,12.537,2024,https://science.nasa.gov/exoplanet-catalog/ngts-30-b/
+40,KOI-2513.01,1369.87,23 Jupiters,14.913,2023,https://science.nasa.gov/exoplanet-catalog/koi-2513-01/
+41,TOI-2068 b,52.9328,3.97 Earths,13.007,2024,https://science.nasa.gov/exoplanet-catalog/toi-2068-b/
+42,TOI-5799 b,27.8123,3.27 Earths,13.29,2024,https://science.nasa.gov/exoplanet-catalog/toi-5799-b/
+43,KMT-2021-BLG-1150L b,3800,0.88 Jupiters,Unknown,2023,https://science.nasa.gov/exoplanet-catalog/kmt-2021-blg-1150l-b/
+44,OGLE-2017-BLG-0640L b,6630,1.62 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/ogle-2017-blg-0640l-b/
+45,OGLE-2017-BLG-1275L b,7690,5.9 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/ogle-2017-blg-1275l-b/
+46,OGLE-2017-BLG-1237L b,6030,3.8 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/ogle-2017-blg-1237l-b/
+47,HD 104067 c,20.3632,13.2 Earths,7.92,2024,https://science.nasa.gov/exoplanet-catalog/hd-104067-c/
+48,M62H b,Unknown,2.47 Jupiters,Unknown,2024,https://science.nasa.gov/exoplanet-catalog/m62h-b/
+49,Luhman 16 b,Unknown,29.4 Jupiters,Unknown,2017,https://science.nasa.gov/exoplanet-catalog/luhman-16-b/
+50,TOI-4438 b,30.0346,5.4 Earths,13.69,2024,https://science.nasa.gov/exoplanet-catalog/toi-4438-b/
+51,HD 77946 b,99.451,8.38 Earths,8.99,2024,https://science.nasa.gov/exoplanet-catalog/hd-77946-b/
+52,OGLE-2016-BLG-1093L b,8120,0.71 Jupiters,Unknown,2022,https://science.nasa.gov/exoplanet-catalog/ogle-2016-blg-1093l-b/
+53,NGC 2682 Sand 1429 b,852.793,1.8 Jupiters,12.704,2024,https://science.nasa.gov/exoplanet-catalog/ngc-2682-sand-1429-b/
+54,CI Tauri c,157.998,3.6 Jupiters,13.642,2024,https://science.nasa.gov/exoplanet-catalog/ci-tauri-c/
+55,HS Piscium b,37.6604,1.46 Jupiters,10.769,2024,https://science.nasa.gov/exoplanet-catalog/hs-piscium-b/
+56,TOI-1994 b,515.603,22.1 Jupiters,10.514,2024,https://science.nasa.gov/exoplanet-catalog/toi-1994-b/
+57,TOI-4515 b,193.499,2.005 Jupiters,11.938,2024,https://science.nasa.gov/exoplanet-catalog/toi-4515-b/
+58,LHS 1678 d,19.8782,0.907 Earths,12.6,2024,https://science.nasa.gov/exoplanet-catalog/lhs-1678-d/
+59,Teegarden’s Star d,3.83078,0.82 Earths,15.13,2024,https://science.nasa.gov/exoplanet-catalog/teegardens-star-d/
+60,TOI-1199 b,248.427,0.239 Jupiters,11.093,2024,https://science.nasa.gov/exoplanet-catalog/toi-1199-b/
+61,TOI-1273 b,177.118,0.222 Jupiters,10.98,2024,https://science.nasa.gov/exoplanet-catalog/toi-1273-b/
+62,TOI-1347 b,147.476,11.1 Earths,11.168,2024,https://science.nasa.gov/exoplanet-catalog/toi-1347-b/
+63,TOI-1347 c,147.476,6.4 Earths,11.168,2024,https://science.nasa.gov/exoplanet-catalog/toi-1347-c/
+64,TOI-1135 b,114.048,0.162 Jupiters,9.54,2024,https://science.nasa.gov/exoplanet-catalog/toi-1135-b/
+65,TOI-904 b,46.0891,6.46 Earths,12.588,2023,https://science.nasa.gov/exoplanet-catalog/toi-904-b/
+66,TOI-904 c,46.0891,5.34 Earths,12.588,2023,https://science.nasa.gov/exoplanet-catalog/toi-904-c/
+67,TOI-1386 b,146.858,0.148 Jupiters,10.61,2024,https://science.nasa.gov/exoplanet-catalog/toi-1386-b/
+68,TOI-1386 c,146.858,0.309 Jupiters,10.61,2024,https://science.nasa.gov/exoplanet-catalog/toi-1386-c/
+69,Kepler-139 d,391.038,4.65808 Earths,12.775,2023,https://science.nasa.gov/exoplanet-catalog/kepler-139-d/
+70,Kepler-48 f,306.738,0.93944 Jupiters,13.174,2023,https://science.nasa.gov/exoplanet-catalog/kepler-48-f/
+71,Kepler-100 e,304.645,24.14272 Earths,11.055,2023,https://science.nasa.gov/exoplanet-catalog/kepler-100-e/
+72,Kepler-139 e,391.038,1.34071 Jupiters,12.775,2023,https://science.nasa.gov/exoplanet-catalog/kepler-139-e/
+73,HD 134606 b,26.7909,9.09 Earths,6.86,2024,https://science.nasa.gov/exoplanet-catalog/hd-134606-b/
+74,HD 134606 f,26.7909,5.63 Earths,6.86,2024,https://science.nasa.gov/exoplanet-catalog/hd-134606-f/
